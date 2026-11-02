@@ -4,7 +4,7 @@ Senior software engineer in Vancouver with eight years of experience across
 backend systems, web apps, and early-stage startups. I build AI products
 and investigate where they fail.
 
-Open to applied AI engineering roles and US relocation.
+Open to applied AI engineering and software engineer roles in the US and Canada.
 
 ## Featured project: Restaurant ops agent
 
