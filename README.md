@@ -28,7 +28,7 @@ action execution is simulated.
 
 Built with Python, FastAPI, Next.js, PostgreSQL/pgvector, and Claude.
 
-## Work nobody notices
+## Professional experience
 
 - Built the FedEx integration behind a carrier migration saving about
   $1.5M/month in shipping.
